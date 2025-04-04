@@ -41,7 +41,7 @@ Eksempel:
 10.130.58.44 debian10101
 ```
 
-**Info:** d. 01.03.2025 blev deres subnet skiftet til 10.42.0.1/24
+**Info:** d. 01.04.2025 blev deres subnet skiftet til 10.42.0.1/24
 
 ---
 
